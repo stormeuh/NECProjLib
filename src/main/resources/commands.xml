@@ -1,0 +1,12 @@
+<commands>
+	<command id="power_on">
+		<name>Power on</name>
+		<prefix></prefix>
+		<data-len>0</data-len>
+	</command>
+	<command id="power_off">
+        <name>Power off</name>
+        <prefix></prefix>
+        <data-len>0</data-len>
+    </command>
+</commands>
